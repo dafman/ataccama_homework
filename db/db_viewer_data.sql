@@ -1,0 +1,2 @@
+insert into db_detail(database_name, hostname, name, port, username, password) values ('client_db1', 'localhost', 'mysql_client1', 3306, 'db_viewer_user_1', 'db_viewer_pass1');
+insert into db_detail(database_name, hostname, name, port, username, password) values ('client_db2', 'localhost', 'mysql_client2', 3306, 'db_viewer_user_2', 'db_viewer_pass2');
